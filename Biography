@@ -1,0 +1,57 @@
+<nav id="navbar" class="nav">
+  <ul class="nav-list">
+          <a href="#bio">About</a>
+          <a href="#certifications">Certifications</a>
+    </ul>
+</nav>
+
+<main id="main">
+
+  <section id="welcome-section" class= "welcome-section">
+ 
+    <h1><strong>Welcome to my page</strong></h1>
+    <p>I created this website for my HTML certification on FreeCodeCamp.org</p>
+</section>
+
+ <section id="bio">
+   <h2 id="bio-title">Biography</h2>
+   <p>Chad Overstrom</p>
+   <p>BS Finance, Santa Clara University, 2003</P>
+<p>MBA, Sacramento State University, 2020</P>
+   
+  
+  <section id="projects">
+    <h2 id="project-title">Projects</h2>
+    
+    <ul>
+      <li><strong>GitHub Profile: </strong><a id="GitHub Profile"   href="https://github.com/search?q=%40coverstrom" target="_blank">@coverstrom<a/></li>
+      <li><strong>Codepen.io:</strong>
+        Created my first 
+        <a
+        id="project-link"
+  href="https://codepen.io/coverstrom/pen/XWjzyLb"
+        target="_blank"
+           > codepen</li></a>
+      
+      <li><strong>MBA Project:</strong> 
+        <a
+        id="project-link"
+        href="https://www.virtualappco.com"
+        target="_blank"
+        >Virtual Application Co.</a>
+         using  
+      <a
+        id="project-link"
+        href="https://www.wix.com"
+        target="_blank"
+        >Wix.com </a>+ HTML coding
+      </li>
+    </section>
+    
+  <section id="certifications">
+    <h2 id="certification-  title">Certifications</h2>
+     <ul>
+      <li>Responsive Web Design - In progress</li>
+      <li>Computer Science 50, Harvard Online - In progress</li>    
+      </section>
+    </main>
